@@ -1,0 +1,2 @@
++ python dataset_tools.py encode --source=/lustre/fsn1/projects/rech/vra/uuf71dx/repa_data/imagenet/images --dest=/lustre/fsn1/projects/rech/vra/uuf71dx/repa_data/vae-sd
+Error: --dest folder must be empty
